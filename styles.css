@@ -1,0 +1,41 @@
+body {
+    background-image: linear-gradient(to right top, #f33535, #f9582d, #fd7528, #fe8f27, #fea82d, #f6b62f, #eec436, #e4d141, #d1d847, #bede52, #a8e35f, #91e86f);
+    color: #B73E3E;
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 25px;
+
+
+}
+
+
+h1 {
+    text-shadow: 2px 2px 5px black;
+    font-size: 80px;
+    font-weight: 100;
+    
+}
+
+
+img {
+    width: 80%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 12px;;
+    
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+}  
